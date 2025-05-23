@@ -51,3 +51,11 @@
 
 
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/657996d9-7f1f-41c5-ad98-36893574a9d5)
+
+
+## RESULT:
+Thus, to edit an image using an image editing software has been implemented and verified successfully.
+
+
